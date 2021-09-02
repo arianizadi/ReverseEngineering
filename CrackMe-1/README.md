@@ -24,7 +24,7 @@
 
 ### 2. Decompiling
 
-> Today I am going to use [Hopper Disassembler](https://www.hopperapp.com/). I love hopper, but ghidra will also be able to accomplish the same. Both have great pseudocode options, that come in very handy. Remember the checklist above of important information. This will be used later to orient ourselves in the decompiler view because it can be quite hectic at times to know whats going on. These so called monuments to look for can help us know exactly where we are or what to expect.
+> Today I am going to use [Hopper Disassembler](https://www.hopperapp.com/). I love hopper, but ghidra will also be able to accomplish the same. Both have great pseudocode options that come in very handy. Remember the checklist above of important information. This will be used later to orient ourselves in the decompiler view because it can be quite hectic at times to know whats going on. These so called monuments to look for can help us know exactly where we are or what to expect.
 
 #### Procedures
 
