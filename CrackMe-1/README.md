@@ -9,7 +9,7 @@
 >
 > > Assuming it is not malicious.
 
-<img src="https://ariandev.com/Github_Assets/CrackMe_Solutions/CrackMe-1/firstRun.gif" style="max-width: 45vw"></img>
+<img src="https://ariandev.com/Github_Assets/CrackMe_Solutions/CrackMe-1/firstRun.gif" style="max-width: 40vw"></img>
 
 > We can see that it is asking for a password. Next we enter some password so maybe we can get lucky. Unfortunately our attempt did not work :( But we can see a string that it returns saying "wrong password". It is important to look for string or certain build in functions the program uses to orient yourself when decompiling later.
 
@@ -70,7 +70,7 @@
 1. Length must be equal to 10.
 2. First and Last character must be equal.
 
-<img src="https://ariandev.com/Github_Assets/CrackMe_Solutions/CrackMe-1/finalRun.gif" style="max-width: 70vh"></img>
+<img src="https://ariandev.com/Github_Assets/CrackMe_Solutions/CrackMe-1/finalRun.gif" style="max-width: 40vw"></img>
 
 ### Closing Remarks
 
