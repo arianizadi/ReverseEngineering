@@ -57,9 +57,7 @@
 
 > Below is a video of me going through the decompiled binary and reading the values trying to understand what is going on with the information we know. Just to be clear it took me a lot longer to understand what is going on, I recorded this after I knew I was correct so if it takes longer don't worry it was hard for me too. We are only beginners, for now at least ;). It is helpful to know ASM and it's conventions or you will not be able to understand what is going on.
 
-<video style="width: 45vw" controls>
-<source src="https://ariandev.com/Github_Assets/CrackMe_Solutions/CrackMe-1/decompiling.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/15961653/131776426-4b079b6c-5802-4fca-90ea-9091571cadaf.mp4
 
 ### 3. Testing
 
