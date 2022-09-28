@@ -72,7 +72,7 @@ https://user-images.githubusercontent.com/15961653/131776426-4b079b6c-5802-4fca-
 
 ### Closing Remarks
 
-> Thank you for reading and following me on this journey! You will see more write ups from me soon! Something I want to leave here so we can come back and look in future endeavors is the levels of patching, by **The King of R4ndom**! There are **4** Levels of patching.
+> Thank you for reading and following me on this journey! You will see more write ups from me soon! Something I want to leave here so we can come back and look in future endeavors is the levels of patching, by **The Legend of R4ndom**! There are **4** Levels of patching.
 
 1. LAME - Localized Assembly Manipulation and Enhancing
 2. NOOB - Not Only Obvious Breakpoints
