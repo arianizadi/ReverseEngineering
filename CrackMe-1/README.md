@@ -9,7 +9,7 @@
 >
 > > Assuming it is not malicious.
 
-<img src="https://ariandev.com/Github_Assets/CrackMe_Solutions/CrackMe-1/firstRun.gif" style="max-width: 40vw"></img>
+<img src="./firstRun.gif" style="max-width: 80vw"></img>
 
 > We can see that it is asking for a password. Next we enter some password so maybe we can get lucky. Unfortunately our attempt did not work :( But we can see a string that it returns saying "wrong password". It is important to look for string or certain build in functions the program uses to orient yourself when decompiling later.
 
@@ -39,7 +39,7 @@
 | strcspn          | gets first value of char array           |
 | strlen           | gets length of char array                |
 
-<img src="https://ariandev.com/Github_Assets/CrackMe_Solutions/CrackMe-1/procedures.png" style="height: 70vh"></img>
+<img src="./procedures.png" style="height: 70vh"></img>
 
 #### Strings
 
@@ -51,13 +51,16 @@
 | Correct!\nthe password is: %s\n | we want this string to print :)         |
 | wrong password\n                | we do not want this string to print :/  |
 
-<img src="https://ariandev.com/Github_Assets/CrackMe_Solutions/CrackMe-1/strings.png" style="height: 70vh"></img>
+<img src="./strings.png" style="height: 70vh"></img>
 
 #### Commenting and Understanding
 
 > Below is a video of me going through the decompiled binary and reading the values trying to understand what is going on with the information we know. Just to be clear it took me a lot longer to understand what is going on, I recorded this after I knew I was correct so if it takes longer don't worry it was hard for me too. We are only beginners, for now at least ;). It is helpful to know ASM and it's conventions or you will not be able to understand what is going on.
 
-https://user-images.githubusercontent.com/15961653/131776426-4b079b6c-5802-4fca-90ea-9091571cadaf.mp4
+<!-- add video deompiling.mp4 -->
+
+![Decompiling](./decompiling.gif)
+
 
 ### 3. Testing
 
@@ -68,7 +71,7 @@ https://user-images.githubusercontent.com/15961653/131776426-4b079b6c-5802-4fca-
 1. Length must be equal to 10.
 2. First and Last character must be equal.
 
-<img src="https://ariandev.com/Github_Assets/CrackMe_Solutions/CrackMe-1/finalRun.gif" style="max-width: 40vw"></img>
+<img src="./finalRun.gif" style="max-width: 80vw"></img>
 
 ### Closing Remarks
 
