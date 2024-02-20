@@ -57,8 +57,6 @@
 
 > Below is a video of me going through the decompiled binary and reading the values trying to understand what is going on with the information we know. Just to be clear it took me a lot longer to understand what is going on, I recorded this after I knew I was correct so if it takes longer don't worry it was hard for me too. We are only beginners, for now at least ;). It is helpful to know ASM and it's conventions or you will not be able to understand what is going on.
 
-<!-- add video deompiling.mp4 -->
-
 ![Decompiling](./decompiling.gif)
 
 
