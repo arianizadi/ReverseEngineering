@@ -2,7 +2,32 @@
 
 This tutorial will guide you through the process of analyzing and patching a binary executable. We'll focus on reversing the logic of a conditional jump in an executable using Ghidra, a hex editor, and a custom patcher. The goal is to change a `JNZ` (Jump if Not Zero) instruction to a `JZ` (Jump if Zero) instruction.
 
+[Patcher Repository - With Code](https://github.com/arianizadi/ReverseEngineering/tree/main/2-Patcher)
+
 ---
+## Step 0: Background - Look at Source Code
+
+Here is the C++ code that represents the logic to be reversed:
+```cpp
+#include <iostream>
+#include <string>
+
+int main() {
+    std::string input;
+    const std::string correctPassword = "password";
+
+    std::cout << "Enter your password: ";
+    std::cin >> input;
+
+    if (input == correctPassword) {
+        std::cout << "Good" << std::endl;
+    } else {
+        std::cout << "Bad" << std::endl;
+    }
+
+    return 0;
+}
+```
 
 ## Step 1: Analyze the Binary with Ghidra
 
